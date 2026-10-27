@@ -1,4 +1,4 @@
-Script started on Tue Oct 27 13:24:35 2026
+Ariel -SDS 510 BASH TRANSCRIPT Script started on Tue Oct 27 13:24:35 2026
 [1m[7m%[27m[1m[0m                                                                                                                        ]7;file://MacBook-Air-4.local/Users/arielstephens/Documents/GitHub/SDS%20510%20-%20Project%201[0m[27m[24m[J(base) arielstephens@MacBook-Air-4 SDS 510 - Project 1 % [K[?2004hccurl -L -O o log.tar.gz "[7mhttps://www.dropbox.com/s/14jagxjbzhyxg8[7mg[7m/log.tar.gz?dl=1[27m[K[A[63C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mw[27mw[27mw[27m.[27md[27mr[27mo[27mp[27mb[27mo[27mx[27m.[27mc[27mo[27mm[27m/[27ms[27m/[27m1[27m4[27mj[27ma[27mg[27mx[27mj[27mb[27mz[27mh[27my[27mx[27mg[27m8g[27m/[27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m?[27md[27ml[27m=[K =1"[?2004l
   % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
                                  Dload  Upload  Total   Spent   Left   Speed
